@@ -1,0 +1,28 @@
+# Keil uVision 项目文件
+*.uvgui*
+*.uvguix*
+*.uvopt
+*.uvoptx
+*_uvopt.bak
+*_uvproj.bak
+*.bak
+JLinkLog.txt
+JLinkSettings.ini
+JLink Regs CM3.txt
+EventRecorderStub.scvd
+
+# 编译输出目录
+Obj/
+List/
+Output/
+RTE/
+
+# 依赖文件
+*.dep
+
+# 调试配置（可选，根据团队需求决定是否提交）
+# DebugConfig/
+
+# Windows 系统文件
+Thumbs.db
+Desktop.ini
